@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://github.com/AndreBento">
-  <img alt="NLW06 by André Bento" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&link=https://github.com/AndreBento" />
+  <img alt="NLW06 by André Bento" src="https://img.shields.io/badge/-Github-9D7DFE?style=for-the-badge&link=https://github.com/AndreBento" />
   </a>
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/AndreBento/letmeask-nlw06?style=for-the-badge">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size-9D7DFE/AndreBento/letmeask-nlw06?style=for-the-badge">
 	<br />
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-9D7DFE?style=for-the-badge">
 </p>
 <p align="center">
     <img alt="LetMeAsk Logo" src=".github/thumbnail.svg?raw=true" />
