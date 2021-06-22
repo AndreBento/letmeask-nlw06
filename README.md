@@ -1,10 +1,8 @@
 <h1 align="center">
   <a href="https://github.com/AndreBento/letmeask-nlw06">
-    <img alt="Ask Me Bro Logo" src="https://github.com/AndreBento/letmeask-nlw06/blob/master/public/images/banner.png" width="50%" />
+    <img alt="LetMeAsk Logo" src="https://github.com/AndreBento/letmeask-nlw06/public/images/banner.png" width="50%" />
   </a>
 </h1>
-
-<p align="center">Every question has an answer. Learn and share knowledge with others. Initially by Rocketseat.</p>
 
 <p align="center">
   <a href="https://github.com/AndreBento">
@@ -15,7 +13,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge">
 </p>
 <p align="center">
-    <img alt="LetMeAsk Logo" src="https://github.com/AndreBento/letmeask-nlw06/blob/master/public/images/thumbnail.svg?raw=true" />
+    <img alt="LetMeAsk Logo" src="https://github.com/AndreBento/letmeask-nlw06/public/images/thumbnail.svg?raw=true" />
 </p>
 
 ---
