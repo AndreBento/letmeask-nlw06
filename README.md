@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/AndreBento/letmeask-nlw06">
-    <img alt="LetMeAsk Logo" src="https://github.com/AndreBento/letmeask-nlw06/public/images/banner.png" width="50%" />
+    <img alt="LetMeAsk Logo" src=".github/logo.png" width="50%" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge">
 </p>
 <p align="center">
-    <img alt="LetMeAsk Logo" src="https://github.com/AndreBento/letmeask-nlw06/public/images/thumbnail.svg?raw=true" />
+    <img alt="LetMeAsk Logo" src=".github/thumbnail.svg?raw=true" />
 </p>
 
 ---
