@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/AndreBento/letmeask-nlw06">
-    <img alt="LetMeAsk Logo" src=".github/logo.png" width="50%" />
+    <img alt="LetMeAsk Logo" src=".github/logo-letmeask.png" width="50%" />
   </a>
 </h1>
 
